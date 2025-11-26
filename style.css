@@ -149,7 +149,7 @@ body {
 
   .profile-img {
     width: 200px;
-    height: 150px;
+    height: 200px;
   }
 
   .name {
@@ -169,5 +169,6 @@ body {
     max-height: 50vh;
   }
 }
+
 
 
